@@ -4,7 +4,7 @@ import os
 
 # News API endpoint and API key
 NEWS_API_ENDPOINT = "https://newsapi.org/"
-API_KEY = "4b2932bc9bde461ba5bbc592d155dfe0"
+API_KEY = "NEWS API KEY"
 
 def get_news(category):
     params = {
