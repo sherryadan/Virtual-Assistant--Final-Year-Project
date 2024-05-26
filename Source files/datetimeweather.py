@@ -21,7 +21,7 @@ def get_current_datetime():
 
 def main():
     # API key for OpenWeatherMap
-    api_key = "820304a266c4ebb8b69309f3d1fa5c6d"
+    api_key = "Weather API Key"
     city = "Lahore"  # You can change this to any city
 
     # Get current date and time
